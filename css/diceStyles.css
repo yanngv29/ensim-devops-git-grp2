@@ -2,14 +2,17 @@
 	font-family: 'Urbanist', sans-serif;
 }
 
-#jumbo-title{
+#jumbo-title, h1{
 	font-weight: 900;
 	text-transform:uppercase;
 	color: #fff;
 }
+
 body{
 	background-color: aquamarine;
+	padding-top: 75px;
 }
+
 .card-img-top {
     width: 100%;
     height: 15vw;
