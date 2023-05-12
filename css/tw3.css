@@ -4,4 +4,5 @@ body{
     max-width: 1200px;
     align-items: center;
     gap: 20px;
+    margin: auto;
 }
